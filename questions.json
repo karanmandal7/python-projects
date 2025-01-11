@@ -1,0 +1,54 @@
+{
+    "questions":[
+        {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Paris", "Madrid", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which programming language is known as the backbone of web development?",
+        "options": ["Python", "JavaScript", "C++", "Ruby"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the process by which plants make their own food?",
+        "options": ["Photosynthesis", "Respiration", "Digestion", "Fermentation"],
+        "answer": "Photosynthesis"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["O2", "H2O", "CO2", "HO"],
+        "answer": "H2O"
+    },
+    {
+        "question": "What is 5 squared?",
+        "options": ["10", "20", "25", "30"],
+        "answer": "25"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "options": ["Venus", "Mars", "Mercury", "Earth"],
+        "answer": "Mercury"
+    }
+  ]
+}
